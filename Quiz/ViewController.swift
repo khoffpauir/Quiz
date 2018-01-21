@@ -4,7 +4,7 @@
 //
 //  Created by Kyle Hoffpauir on 1/10/18.
 //  Copyright © 2018 Kyle Hoffpauir. All rights reserved.
-//
+//  High Point University
 
 import UIKit
 
